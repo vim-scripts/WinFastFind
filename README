@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3635
+
+I work on Windows at work. I have frequently found the "find" command on Vim to
+lag when the "path" variable is set to recurse through a large directory. This
+is my attempt to solve this problem.
+
+I am using an external filename search tool called "Everything" along with a
+sed script to find for files by name from VIM. 
